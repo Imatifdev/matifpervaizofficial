@@ -40,8 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@matifpervaiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@matifpervaiz" /></a></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matifpervaizofficial&show_icons=true&locale=en&layout=compact" alt="matifpervaizofficial" height='500' width='600'/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matifpervaizofficial&show_icons=true&locale=en&layout=compact" alt="matifpervaizofficial" height='500' width='600'/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matifpervaizofficial&show_icons=true&locale=en" alt="matifpervaizofficial"  height='500' width='600'/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=matifpervaizofficial&show_icons=true&locale=en" alt="matifpervaizofficial"  height='500' width='600'/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matifpervaizofficial&" height='500' width='600' alt="matifpervaizofficial" /></p>
